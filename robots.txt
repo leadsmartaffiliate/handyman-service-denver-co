@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handyman-service-denver-co.netlify.app/sitemap.xml
